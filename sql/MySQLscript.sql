@@ -10,3 +10,6 @@ CREATE TABLE `users` (
   `email` varchar(45) NOT NULL,
   PRIMARY KEY (`user_id`)
 );
+
+
+/added column
