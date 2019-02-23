@@ -31,6 +31,10 @@
 					<td><c:out value="${user.username}" /></td>
 					<td><c:out value="${user.email}" /></td>
 				</tr>
+					<tr>
+					<td><c:out value="${user.username}" /></td>
+					<td><c:out value="${user.email}" /></td>
+				</tr>
 			</c:forEach>
 		</table>
 	</div>
